@@ -64,13 +64,12 @@ The original project states that it is heavily based on:
 
 Original project authors and contributors include:
 
-- MjTs-140914
-- the4chancup
-- leus
-- Atvaark — GzsTool
-- zlac — `pes_diff.bin` research/work
-- Blenderanon
-- 魔大农
+- [leus](https://github.com/leus/)
+- [MjTs140914](https://www.facebook.com/MjTs140914/)
+- [the4chancup](https://github.com/the4chancup)
+- [Atvaark — GzsTool](https://github.com/Atvaark/GzsTool)
+- [zlac — `pes_diff.bin`](https://evo-web.co.uk/)
+- [魔大农 — TiNA](https://gitlab.com/luckeyproductions/tools/TiNA)
 
 Original pre-release testers:
 
@@ -82,11 +81,22 @@ Original pre-release testers:
 - ryudek
 - Ummah Qiya
 
-Additional credit belongs to the Blender community, Blender.org, Microsoft DirectXTex, and Chuck Walbourn, as identified by the original project.
+Additional credits, as identified by the original project:
+
+- [Blender.org / Blender Artists Community](https://blenderartists.org/)
+- [Microsoft DirectXTex](https://github.com/microsoft/DirectXTex/releases)
+- [Chuck Walbourn](https://github.com/walbourn)
+- [leus](https://github.com/leus/)
+- [MjTs140914](https://www.facebook.com/MjTs140914/)
+- [the4chancup](https://github.com/the4chancup)
+- [Atvaark](https://github.com/Atvaark)
+- [zlac](https://evo-web.co.uk/)
+- [Blenderanon](https://github.com/Blenderanon)
+- [魔大农](https://gitlab.com/luckeyproductions/tools/TiNA)
 
 ## License
 
-The original project is distributed under the **MIT License**. Refer to the original repository for its authoritative license text and project history.
+The original project is distributed under the [MIT License](https://github.com/MjTs140914/PES_Face_Hair_Modifier/blob/master/LICENSE). Refer to the original repository for its authoritative license text and project history.
 
 ## Disclaimer
 
