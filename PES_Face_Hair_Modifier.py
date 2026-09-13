@@ -19,7 +19,7 @@ bl_info = {
  "description": "PES Face/Hair Modifier",
  "warning": "",
  "wiki_url": "https://github.com/MjTs140914/PES_Face_Hair_Modifier",
- "tracker_url": "https://github.com/MjTs140914/PES_Face_Hair_Modifier/issues",
+ "tracker_url": "https://github.com/luckyfacemaker/PES_Face_Hair_Modifier/issues",
  "category": "System"
 }
 
